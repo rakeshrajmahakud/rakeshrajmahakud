@@ -1,4 +1,4 @@
-<p><img src="https://github.com/rakeshrajmahakud/profile-components/blob/main/5725311.png" width="800" height="300"></p>
+<p><img src="https://github.com/rakeshrajmahakud/profile-components/blob/main/5725311.png" height="300"></p>
 <h1 align="center">Hi 👋, I'm Rakeshraj Mahakud</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="left">Connect with me:</h3>
