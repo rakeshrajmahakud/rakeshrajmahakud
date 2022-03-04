@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakeshraj Mahakud</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="left">Connect with me:</h3>
+<p align="right"><img src="https://github.com/rakeshrajmahakud/profile-components/blob/main/typing_anim.gif" width="400" height="300"></p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
