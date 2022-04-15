@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rakeshraj.mahakud03@gmail.com**
 
-- <p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=MultiLanguage,Reositories,Commits,Stars,Followers&row=2&column=3" alt="rakeshrajmahakud" /></a> </p>
+- <p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=MultiLanguage,Reositories,Commits,Stars,Followers&row=2&column=4" alt="rakeshrajmahakud" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
