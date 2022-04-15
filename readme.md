@@ -4,7 +4,7 @@
 <img height= "200" width= "300" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud" alt="rakeshrajmahakud" /></a> </p>
+<p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud" alt="rakeshrajmahakud" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
