@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakeshraj Mahakud</h1>
 <h3 align="center">A passionate full stack developer from Bhubaneswar, Odisha, India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrajmahakud&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrajmahakud" /> </p>
 <img height= "200" width= "300" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
 
 
