@@ -35,7 +35,7 @@
  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud" alt="rakeshrajmahakud" /></a> 
 
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers" alt="rakeshrajmahakud" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=Stars,Followers" alt="rakeshrajmahakud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshrajmahakud&show_icons=true&locale=en" alt="rakeshrajmahakud" /></p>
 
