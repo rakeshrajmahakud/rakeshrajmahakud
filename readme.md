@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakeshraj Mahakud</h1>
 <h3 align="center">A passionate full stack developer from Bhubaneswar, Odisha, India</h3>
 
-<img height= "400" width= "300" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
+<img height= "300" width= "400" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud" alt="rakeshrajmahakud" /></a> </p>
