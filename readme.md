@@ -34,5 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshrajmahakud&show_icons=true&locale=en&layout=compact" alt="rakeshrajmahakud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshrajmahakud&show_icons=true&locale=en" alt="rakeshrajmahakud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshrajmahakud&show_icons=true&locale=en&theme=radical" alt="rakeshrajmahakud" /></p>
 
