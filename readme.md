@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rakeshraj Mahakud</h1>
 <h3 align="center">A passionate full stack developer from Bhubaneswar, Odisha, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrajmahakud&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrajmahakud" /> </p>
-<img height= "200" width= "300" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
-
-
-<p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=MultiLanguage,Reositories,Commits,Stars,Followers&row=2&column=3" alt="rakeshrajmahakud" /></a> </p>
+<img height= "300" width= "400" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
 
 - 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [www.g24hub.com](www.g24hub.com)
 
 - 📫 How to reach me **rakeshraj.mahakud03@gmail.com**
+
+- <p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=MultiLanguage,Reositories,Commits,Stars,Followers&row=2&column=3" alt="rakeshrajmahakud" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
