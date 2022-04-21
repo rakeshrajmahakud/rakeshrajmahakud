@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/alien%20(2).gif"> I'm Rakeshraj Mahakud</h1>
-<h3 align="center">A passionate full stack developer from Bhubaneswar, Odisha, India<img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/smiling_face_with_sunglasses.gif"></h3>
+<h3 align="center">A passionate full stack developer from Bhubaneswar, Odisha, India<img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/smiling_face_with_sunglasses%20(1).gif"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrajmahakud&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrajmahakud" /> </p>
 <img height= "300" width= "400" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
 
