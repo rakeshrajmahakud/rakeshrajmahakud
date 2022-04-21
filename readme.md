@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.g24hub.com](www.g24hub.com)
 
-- 📫 How to reach me **rakeshraj.mahakud03@gmail.com**
+- <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/globe.gif"> How to reach me **rakeshraj.mahakud03@gmail.com**
 
 <p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="rakeshrajmahakud" /></a> </p>
 
