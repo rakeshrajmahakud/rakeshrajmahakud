@@ -5,7 +5,7 @@
 
 - <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/fire.gif"> I’m currently learning **React js**
 
-- <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/alien.gif"> All of my projects are available at [www.g24hub.com](www.g24hub.com)
+- <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/rocket.gif"> All of my projects are available at [www.g24hub.com](www.g24hub.com)
 
 - <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/globe.gif"> Reach me **rakeshraj.mahakud03@gmail.com**
 
