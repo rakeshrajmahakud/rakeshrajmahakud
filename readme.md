@@ -4,9 +4,7 @@
 <img height= "285" width= "385" align = "right"  src= "https://github.com/rakeshrajmahakud/profile-components/blob/main/4shUyEk2t.gif?raw=true" alt="profile pic">
 
 - <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/fire.gif"> I’m currently learning **React js**
-
-- <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/rocket.gif"> All of my projects are available at [www.g24hub.com](www.g24hub.com)
-
+- <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/rocket.gif"> All of my projects are available at [www.g24hub.com](www.g24hub.com
 - <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/globe.gif"> Reach me **rakeshraj.mahakud03@gmail.com**
 
 <p align="left"> <a href="https://github.com/rakeshrajmahakud/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshrajmahakud&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="rakeshrajmahakud" /></a> </p>
