@@ -1,3 +1,4 @@
+ <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/intro.gif"
 <h1 align="center">Hi <img align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/alien%20(2).gif"> I'm Rakeshraj Mahakud</h1>
 <h3 align="center">A passionate full stack developer from Bhubaneswar, Odisha, India<img height="40" width="40" align="center" src="https://github.com/rakeshrajmahakud/profile-components/blob/main/smiling_face_with_sunglasses%20(1).gif"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrajmahakud&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrajmahakud" /> </p>
